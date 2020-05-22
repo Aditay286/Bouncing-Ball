@@ -8,4 +8,4 @@ a:LEFT
 d:RIGHT_**
 
 This is the screenshot of game.
-![Image](https://github.com/Aditay286/Bouncing-Ball/master/bouncing.png?raw=true)
+![bouncing](https://user-images.githubusercontent.com/45618714/82679640-d1e1f600-9c68-11ea-9246-ce5988491192.png)
